@@ -1,0 +1,71 @@
+body {
+	background-color: #B0D891;
+}
+h1	{
+	font: 80px  Gabriola bold;
+	border: 5px solid #A82494;
+	color: 	#FAA91C;
+	background-color: #EE1C25;
+	margin-left: 25%; 
+	margin-right: 25%;
+	text-align: center;
+	border-radius: 50px;
+	padding: 10px;
+	}
+
+h2  {
+	font: 35px Gabriola bold;
+	text-align: center;
+}
+
+h2:hover {
+	background: #18A15F;
+}
+
+h2:hover {
+	background: #18A15F;
+	transition-duration: 0.5s;
+	cursor: pointer;
+}
+
+td	{
+	background-color: #FAA91C;
+	border: 5px solid #A82494;
+}
+
+.text {
+	width: 50%;
+	padding: 5%;
+	font: 20px times;
+	text-indent: 20px;	
+}
+
+.image {
+	text-align: center;
+}
+
+p {
+		font: 30px tahoma;
+		text-align: center;
+}
+
+.choice	{
+	padding: 5%;
+	font: 40px Gabriola;
+
+}
+
+.choice:hover {
+	background: #18A15F;
+	transition-duration: 0.5s;
+	cursor: pointer;
+}
+
+table {
+	align-self: center;
+}
+
+h3  {
+	font: 50px Gabriola bold;
+	text-align: center;
+}
